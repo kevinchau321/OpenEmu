@@ -41,8 +41,8 @@ NSString * const OEOpenVGDBUpdateIntervalKey = @"OpenVGDBUpdateInterval";
 
 
 NSString * const OpenVGDBFileName = @"openvgdb";
-NSString * const OpenVGDBDownloadURL = @"https://github.com/OpenVGDB/OpenVGDB/releases/download";
-NSString * const OpenVGDBUpdateURL = @"https://api.github.com/repos/OpenVGDB/OpenVGDB/releases?page=1&per_page=1";
+NSString * const OpenVGDBDownloadURL = @"https://github.com/kevinchau321/OpenVGDB/releases/download";
+NSString * const OpenVGDBUpdateURL = @"https://api.github.com/repos/kevinchau321/OpenVGDB/releases?page=1&per_page=1";
 
 NSString * const OEGameInfoHelperWillUpdateNotificationName = @"OEGameInfoHelperWillUpdateNotificationName";
 NSString * const OEGameInfoHelperDidChangeUpdateProgressNotificationName = @"OEGameInfoHelperDidChangeUpdateProgressNotificationName";
